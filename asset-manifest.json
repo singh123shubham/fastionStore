@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/fastionStore/static/css/main.1dc297dd.css",
+    "main.js": "/fastionStore/static/js/main.73052835.js",
+    "static/media/15.png": "/fastionStore/static/media/15.51cd1f682ef3225415d2.png",
+    "static/media/7.png": "/fastionStore/static/media/7.9f8574a3994ddfe0b911.png",
+    "static/media/20.png": "/fastionStore/static/media/20.7b5f8efb18f3214dee23.png",
+    "static/media/9.png": "/fastionStore/static/media/9.245a347be5ac1f34e62e.png",
+    "static/media/4.png": "/fastionStore/static/media/4.9cd6b6cac6cd72808ef3.png",
+    "static/media/5.png": "/fastionStore/static/media/5.ef95563ca36a88eee8b7.png",
+    "static/media/6.png": "/fastionStore/static/media/6.a520d2a3ca60d562c5c6.png",
+    "static/media/12.png": "/fastionStore/static/media/12.b6d8c2b964c06a5e877d.png",
+    "static/media/3.png": "/fastionStore/static/media/3.432db58b8d3e4d1d883e.png",
+    "static/media/13.png": "/fastionStore/static/media/13.09de2281add6d2283a6c.png",
+    "static/media/1.png": "/fastionStore/static/media/1.d8ccac1e642e2cf2998e.png",
+    "static/media/2.png": "/fastionStore/static/media/2.9f79d939c095e22510df.png",
+    "static/media/10.png": "/fastionStore/static/media/10.eb03f356d998d9cccf19.png",
+    "static/media/11.png": "/fastionStore/static/media/11.053e63510f61abaa2018.png",
+    "static/media/18.png": "/fastionStore/static/media/18.b59d28a907a00ae9dab0.png",
+    "static/media/17.png": "/fastionStore/static/media/17.8f6f5b9fe9adae6a4a4c.png",
+    "static/media/16.png": "/fastionStore/static/media/16.95b0f9b09a5a38555b85.png",
+    "index.html": "/fastionStore/index.html",
+    "main.1dc297dd.css.map": "/fastionStore/static/css/main.1dc297dd.css.map",
+    "main.73052835.js.map": "/fastionStore/static/js/main.73052835.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dc297dd.css",
+    "static/js/main.73052835.js"
+  ]
+}
